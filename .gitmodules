@@ -1,0 +1,27 @@
+[submodule "CameraDrive"]
+	path = CameraDrive
+	url = https://github.com/n1ckfg/CameraDrive
+[submodule "drawing_methods"]
+	path = drawing_methods
+	url = https://github.com/n1ckfg/drawing_methods
+[submodule "UnityFade"]
+	path = UnityFade
+	url = https://github.com/n1ckfg/UnityFade
+[submodule "Common/Assets/ImageEffectsVR"]
+	path = Common/Assets/ImageEffectsVR
+	url = https://github.com/n1ckfg/ImageEffectsVR
+[submodule "Common/Assets/SoundEffects"]
+	path = Common/Assets/SoundEffects
+	url = https://github.com/n1ckfg/SoundEffects
+[submodule "Common/Assets/UnityMultiCam"]
+	path = Common/Assets/UnityMultiCam
+	url = https://github.com/n1ckfg/UnityMultiCam
+[submodule "Common/Assets/UnityOSC"]
+	path = Common/Assets/UnityOSC
+	url = https://github.com/n1ckfg/UnityOSC
+[submodule "PShaderToy"]
+	path = PShaderToy
+	url = https://github.com/n1ckfg/PShaderToy
+[submodule "Common/Assets/BasicControls"]
+	path = Common/Assets/BasicControls
+	url = https://github.com/n1ckfg/BasicControls
